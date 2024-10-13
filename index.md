@@ -1,12 +1,26 @@
-# Tervetuloa HTML-maailmaan
+## Miikka T web-tehtävä:
 
-Tässä on yksinkertainen HTML-sivu, jonka voit avata selaimessasi.
+Writing in Markdown is _not_ that hard!
 
-## Alla on kuva:
-![kuva](kuva.png)
+I **will** complete these lessons!
 
-- Ensimmäinen
-- Toinen
-- Kolmas
+"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
-Voit klickata tästä [googleen](https://www.google.com) 
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+
+#Header one
+##Header two
+###Header three
+####Header four
+#####Header five
+######Header six
+
+####Colombian Symbolism in _One Hundred Years of Solitude_
+
+Here's some words about the book _One Hundred Years..._.
+
+[Search for it.](https://www.google.com)
+
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
+
+####The Latest News from [the BBC](https://www.bbc.com/news)
